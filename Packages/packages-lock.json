@@ -15,13 +15,6 @@
         "com.unity.collections": "1.2.4"
       }
     },
-    "com.sjai013.abilitysystem": {
-      "version": "https://github.com/sjai013/unity-gameplay-ability-system.git#upm",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "7fb9a68132c325fe2d228ea8d9651915d1546cd9"
-    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,

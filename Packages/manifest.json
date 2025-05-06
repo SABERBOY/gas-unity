@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "com.annulusgames.alchemy": "https://github.com/annulusgames/Alchemy.git?path=/Alchemy/Assets/Alchemy",
-    "com.sjai013.abilitysystem": "https://github.com/sjai013/unity-gameplay-ability-system.git#upm",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.cinemachine": "2.10.3",
     "com.unity.collab-proxy": "2.6.0",
